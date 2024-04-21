@@ -29,6 +29,10 @@ h2 {
   border-radius: 4px;
 }
 
+.banner-image {
+  object-fit: scale-down;
+}
+
 .main_title {
   text-align: center;
   padding: 5%;
