@@ -9,6 +9,11 @@ div {
   box-shadow: 3px solid grey;
 
 }
+
+#header-nav {
+  background-color: #F5F5DC;
+  border: #F5F5DC;
+}
 p {
   font-family: Tahoma, sans-serif;
   background-color: #3B84A0;
@@ -18,6 +23,13 @@ p {
   border: 1px solid black;
   border-radius: 17px;
   text-align: center;
+}
+
+#logo-image {
+ background: url('zach-gits-it/coursera_mod2.github.io/Images/Staging_Spaces_Wordmark_White@300x 2.PNG')no-repeat;
+ width: 150px;
+ height: 150px;
+ margin: 10px 15px 10px 0; 
 }
 
 h2 {
