@@ -25,18 +25,6 @@ p {
   text-align: center;
 }
 
-#logo-image {
- background: url('zach-gits-it/coursera_mod2.github.io/Images/Staging_Spaces_Wordmark_White@300x 2.PNG')no-repeat;
- width: 150px;
- height: 150px;
- margin: 10px 15px 10px 0; 
-}
-
-.banner-image {
-  height: 100px;
-  width: 175px;
-
-}
 
 h2 {
   float: right;
@@ -47,9 +35,6 @@ h2 {
   border-radius: 4px;
 }
 
-.banner-image {
-  object-fit: scale-down;
-}
 
 .main_title {
   text-align: center;
