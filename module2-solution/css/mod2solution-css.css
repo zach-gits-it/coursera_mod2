@@ -32,6 +32,12 @@ p {
  margin: 10px 15px 10px 0; 
 }
 
+.banner-image {
+  height: 100px;
+  width: 175px;
+
+}
+
 h2 {
   float: right;
   margin-right: 30px;
